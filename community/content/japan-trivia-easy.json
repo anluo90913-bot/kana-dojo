@@ -163,5 +163,15 @@
       "Shodo"
     ],
     "correctIndex": 0
+  },
+  {
+    "question": "What does \"Oishii\" mean in Japanese?",
+    "correctAnswer": "Delicious",
+    "incorrectAnswers": [
+      "Hello",
+      "Thank you",
+      "Goodbye"
+    ],
+    "answerExplanation": "Oishii means delicious in Japanese."
   }
 ]

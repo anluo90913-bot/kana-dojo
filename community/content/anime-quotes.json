@@ -77,17 +77,22 @@
     "character": "Naruto Uzumaki"
   },
   {
-  "japanese": "マママママ",
-  "romaji": "Mama mama mama",
-  "english": "Mama mama mama.",
-  "anime": "One Piece",
-  "character": "Charlotte Linlin (Big Mom)"
-},
+    "japanese": "マママママ",
+    "romaji": "Mama mama mama",
+    "english": "Mama mama mama.",
+    "anime": "One Piece",
+    "character": "Charlotte Linlin (Big Mom)"
+  },
   {
-  "japanese": "普通の生活がしたいだけなんだ",
-  "romaji": "Futsuu no seikatsu ga shitai dake nanda",
-  "english": "All I want is to live a normal life. (alt wording 40)",
-  "anime": "Chainsaw Man",
-  "character": "Denji"
-}
+    "japanese": "普通の生活がしたいだけなんだ",
+    "romaji": "Futsuu no seikatsu ga shitai dake nanda",
+    "english": "All I want is to live a normal life. (alt wording 40)",
+    "anime": "Chainsaw Man",
+    "character": "Denji"
+  },
+  {
+    "quote": "I wanna be the very best.",
+    "anime": "Pokemon",
+    "character": "Ash Ketchum"
+  }
 ]

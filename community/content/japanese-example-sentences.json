@@ -30,21 +30,27 @@
     "jlpt": "N3"
   },
   {
-  "japanese": "この表現は場面によって失礼に聞こえることがある。",
-  "romaji": "Kono hyougen wa bamen ni yotte shitsurei ni kikoeru koto ga aru.",
-  "english": "This expression can sound rude depending on context.",
-  "jlpt": "N2"
+    "japanese": "この表現は場面によって失礼に聞こえることがある。",
+    "romaji": "Kono hyougen wa bamen ni yotte shitsurei ni kikoeru koto ga aru.",
+    "english": "This expression can sound rude depending on context.",
+    "jlpt": "N2"
   },
   {
-  "japanese": "会議は予定より早く終わりました。",
-  "romaji": "Kaigi wa yotei yori hayaku owarimashita.",
-  "english": "The meeting ended earlier than scheduled.",
-  "jlpt": "N4"
+    "japanese": "会議は予定より早く終わりました。",
+    "romaji": "Kaigi wa yotei yori hayaku owarimashita.",
+    "english": "The meeting ended earlier than scheduled.",
+    "jlpt": "N4"
   },
   {
     "japanese": "この漢字の読み方を教えてください。",
     "romaji": "Kono kanji no yomikata o oshiete kudasai.",
     "english": "Please tell me how to read this kanji.",
     "jlpt": "N5"
+  },
+  {
+    "japanese": "今日はいい天気ですね。",
+    "romaji": "Kyou wa ii tenki desu ne.",
+    "english": "It is nice weather today.",
+    "meaning": "A casual weather comment."
   }
 ]

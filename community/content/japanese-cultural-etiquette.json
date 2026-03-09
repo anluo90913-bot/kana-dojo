@@ -60,9 +60,13 @@
     "note": "合意形成を重視する文化。"
   },
   {
-  "situation": "写真撮影（寺社） 3",
-  "do": "撮影可否表示を確認する",
-  "dont": "禁止場所で撮影する",
-  "note": "御本尊周辺は撮影不可が多い。"
-}
+    "situation": "写真撮影（寺社） 3",
+    "do": "撮影可否表示を確認する",
+    "dont": "禁止場所で撮影する",
+    "note": "御本尊周辺は撮影不可が多い。"
+  },
+  {
+    "title": "Bowing",
+    "content": "Bowing is a traditional Japanese greeting. The deeper the bow, the more respect shown."
+  }
 ]
